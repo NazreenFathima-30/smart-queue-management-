@@ -1,0 +1,17 @@
+smart-queue-system/
+├── backend/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/com/queue/
+│   │   │   │   ├── controller/
+│   │   │   │   ├── model/
+│   │   │   │   ├── repository/
+│   │   │   │   ├── service/
+│   │   │   │   └── QueueApplication.java
+│   │   │   └── resources/
+│   │   │       ├── application.properties
+│   └── pom.xml
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
